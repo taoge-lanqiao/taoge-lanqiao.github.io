@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## 欢迎来到涛哥课堂
 
-You can use the [editor on GitHub](https://github.com/taoge-lanqiao/taoge-lanqiao.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://sxr8mr.yuque.com/docs/share/e7c097fa-9cc5-4b2c-b5d4-30d8a1c541f6?#SLBh 《前后端全套重难点技术笔记教程链接分享》
 
 ### Markdown
 
